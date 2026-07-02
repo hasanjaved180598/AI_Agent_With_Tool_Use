@@ -175,16 +175,9 @@ These fixes illustrate a key lesson: with local smaller models like LLaMA3, **pr
 
 ## 🎬 Demo
 
-> 📹 **Watch the full demo video below.**
-
-[![AI Agent Demo](https://img.shields.io/badge/▶_Watch_Demo-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-### What the demo covers:
-- Asking a calculator question and watching the agent reason through it step by step
-- Asking a factual question with automatic Wikipedia/web search fallback
-- Uploading a document and asking questions answered directly from its content
-- Viewing the full Thought → Action → Observation trace for each answer
-- Demonstrating conversation memory across multiple turns
+<img width="1841" height="673" alt="1" src="https://github.com/user-attachments/assets/b720deb6-20d5-4884-9d5a-57d00f1d3522" />
+<img width="1815" height="620" alt="2" src="https://github.com/user-attachments/assets/8c9f4ade-39bc-4dc8-ac75-a196691159ed" />
+<img width="1821" height="646" alt="3" src="https://github.com/user-attachments/assets/947ed981-d22d-4554-81dc-911ad9e4b879" />
 
 ---
 
