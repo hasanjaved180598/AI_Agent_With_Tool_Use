@@ -173,7 +173,7 @@ These fixes illustrate a key lesson: with local smaller models like LLaMA3, **pr
 
 ---
 
-## 🎬 Demo
+## 📸 Demo
 
 <img width="1841" height="673" alt="1" src="https://github.com/user-attachments/assets/b720deb6-20d5-4884-9d5a-57d00f1d3522" />
 <img width="1815" height="620" alt="2" src="https://github.com/user-attachments/assets/8c9f4ade-39bc-4dc8-ac75-a196691159ed" />
